@@ -1,3 +1,6 @@
+Brute Force Style : MonteCarlo https://pythonforfinance.net/2019/07/02/investment-portfolio-optimisation-with-python-revisited/
+
+
 # Markowitz Portfolio Optimization
 Modern portfolio theory was pioneered by Harry Markowitz in 1952 and led to him being awarded the Nobel Prize in Economics in 1990. The [original essay](http://www.performance-measurement.org/Markowitz1952.pdf) on portfolio selection has since inspired a multitude of researchers and analysts to develop theories on financial modelling and risk management. Seeking similar inspiration, I studied the classical portfolio optimization technique introduced by Markowitz and applied it to real world data. 
 
